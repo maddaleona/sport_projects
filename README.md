@@ -1,5 +1,5 @@
 ### Sport Projects
-### Author: Davit Sargsyan 
+### Author: Maddalena Torricelli
 --- We turn sports data into insightful and awesome visualizations ---
 
 ---

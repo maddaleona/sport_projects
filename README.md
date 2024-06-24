@@ -6,4 +6,5 @@
 
 ### Python Notebooks
 #### a. Examples of using *plotly* package
-1. [Pie Chart](http://html-preview.github.io/?https://github.com/maddaleona/sport_projects/data/figure.html)
+1. [Pie Chart](http://html-preview.github.io/?
+   https://github.com/maddaleona/sport_projects/data/figure.html)

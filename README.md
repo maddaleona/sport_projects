@@ -8,4 +8,5 @@
 
 ### Python Notebooks
 #### a. Examples of using *plotly* package
-1. [Pie Chart](https://htmlpreview.github.io/?https://github.com/maddaleona/sport_projects/blob/main/data/figure.html)
+1. [World cup 2010: Spanish team passes (heatmap)](https://htmlpreview.github.io/?https://github.com/maddaleona/sport_projects/blob/main/data/es_heatmap.html)
+2. [World cup 2010: Netherlands team passes (heatmap)](https://htmlpreview.github.io/?https://github.com/maddaleona/sport_projects/blob/main/data/nl_heatmap.html)

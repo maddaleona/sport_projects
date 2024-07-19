@@ -1,4 +1,7 @@
 # Sport Projects
+
+🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐
+
 ### Author: Maddalena Torricelli
 --- Turning sports data into insightful and awesome visualizations ---
 
@@ -14,3 +17,6 @@
    --> have a look to the world_cup_analysis.pdf (in *files*) for more info!
    
 3. ⚾[MLB 2018: bases reached by the batter following a hit- first](https://htmlpreview.github.io/?https://github.com/maddaleona/sport_projects/blob/main/data/MLB_2018_hits.html)
+
+
+🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐

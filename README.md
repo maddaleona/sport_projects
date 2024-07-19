@@ -3,7 +3,7 @@
 🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐
 
 ### Author: Maddalena Torricelli
---- Turning sports data into insightful and awesome visualizations ---
+--- Turning sports data into insightful visualizations ---
 
 :construction_worker: *work in progress* :construction_worker:
 

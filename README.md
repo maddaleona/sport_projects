@@ -12,7 +12,7 @@
 ## Index
 . In the [*world_cup_2010*](./world_cup_2010) folder, you can find the analysis on the final match of the FIFA World Cup 2010 - Spain vs Netherlands, juicy 🍇
 
-. In the *plotly_viz* folder, you can find some visualizations made with Plotly 📊
+. In the [plotly_viz*](./plotly_viz) folder, you can find some visualizations made with Plotly 📊
 
 
 🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐

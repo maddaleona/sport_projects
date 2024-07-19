@@ -13,4 +13,4 @@ A significant divergence between the teams emerges from analyzing the ball flow,
 ![alt text](https://github.com/maddaleona/sport_projects/blob/main/files/hist_es_nl.png)
 
 
---> have a look to the world_cup_analysis.pdf (in *files*) for more info!
+--> have a look here --> ![alt text](https://github.com/maddaleona/sport_projects/blob/main/files/world_cup_analysis.pdf) <-- for more info!

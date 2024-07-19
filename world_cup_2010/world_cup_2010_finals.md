@@ -15,4 +15,4 @@ A significant divergence between the teams emerges from analyzing the ball flow,
 
 --> have a look here ⬇️ for more info:
 
-[Some title here](https://github.com/maddaleona/sport_projects/blob/main/files/world_cup_analysis.pdf)
+[Decoding Football Strategies Through Network Theory: Deconstructing Spain's Playbook in the FIFA WORLD CUP™ 2010 Final](./world_cup_2010_analysis.pdf)

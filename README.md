@@ -1,8 +1,6 @@
-# Sport Projects
-
 🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐
-
-### Author: Maddalena Torricelli
+# Sport Projects
+#### Author: Maddalena Torricelli
 --- Turning sports data into cute and insightful visualizations ---
 
 :construction_worker: *work in progress* :construction_worker:

@@ -1,3 +1,6 @@
+# Decoding Football Strategies Through Network Theory: Deconstructing Spain's Playbook in the FIFA WORLD CUP™ 2010 Final ⚽
+
+
 In analyzing the passing schemes of both teams, the distinctive <b>horizontal</b> orientation of Spanish play reaffirms itself, contrasting sharply with the more traditional <b>vertical</b> patterns of Dutch football. Highlighted in these heatmaps, we observe the Spanish team's frequent passes across the field, emblematic of their expansive style of play. This approach mirrors the Barcelona-inspired tiki-taka philosophy, emphasizing ball possession and midfield domination, distinct from the elongated passing sequences characteristic of Dutch football. To be noticed also the huge difference in the number of passes between the two teams: Spain had the control over the ball possession during the whole match.
 
 

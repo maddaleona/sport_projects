@@ -6,15 +6,11 @@ In analyzing the passing schemes of both teams, the distinctive <b>horizontal</b
 
 ![alt text](https://github.com/maddaleona/sport_projects/blob/main/files/heatmaps_es_nl.png)
 
+
 A significant divergence between the teams emerges from analyzing the ball flow, measurable by <b>betweenness centrality</b>. The Dutch goalkeeper is crucial in influencing ball flow, comparable to his teammates, as seen in their vertical style. Conversely, Spanish defenders, midfielders, and forwards play pivotal roles in team flow, contrasting with Dutch players who circulate the ball with fewer passes. The ball flow is mainly controlled by the Spanish team, favored by the adopted strategy.
+
 
 ![alt text](https://github.com/maddaleona/sport_projects/blob/main/files/hist_es_nl.png)
 
 
-
-
-
-1. ⚽[World cup 2010 final match: Spain vs Netherlands - Match passes through heatmaps](https://htmlpreview.github.io/?https://github.com/maddaleona/sport_projects/blob/main/data/world_cup_2010_heat.html)
-2. ⚽[World cup 2010 final match: Spain vs Netherlands - Betweenness centrality as a proxy for ball-flow](https://htmlpreview.github.io/?https://github.com/maddaleona/sport_projects/blob/main/data/world_cup_2010_hist.html)
-   
-   --> have a look to the world_cup_analysis.pdf (in *files*) for more info!
+--> have a look to the world_cup_analysis.pdf (in *files*) for more info!

@@ -1,4 +1,4 @@
-![alt text](https://github.com/maddaleona/sport_projects/blob/main/files/heatmap_es_nl.png)
+![alt text](https://github.com/maddaleona/sport_projects/blob/main/files/heatmaps_es_nl.png)
 
 
 

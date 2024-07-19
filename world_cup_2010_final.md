@@ -1,3 +1,6 @@
+In analyzing the adjacency matrices<br>of both teams,<br>the distinctive <b>horizontal</b> orientation of Spanish play reaffirms itself, contrasting sharply<br>with the more traditional <b>vertical</b> patterns of Dutch football. Highlighted in these heatmaps, we observe the Spanish team's frequent passes across the field, emblematic of their expansive style of play. This approach mirrors the<br>Barcelona-inspired tiki-taka philosophy, emphasizing ball possession and midfield domination, distinct from the elongated passing sequences<br>characteristic of Dutch football."
+
+
 ![alt text](https://github.com/maddaleona/sport_projects/blob/main/files/heatmaps_es_nl.png)
 
 

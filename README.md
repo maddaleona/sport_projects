@@ -1,7 +1,7 @@
 🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐🏀🎾🥎⚽🏆🏉⚾🏈🏐
 # Sport Projects
 #### Author: Maddalena Torricelli
---- Turning sports data into cute and insightful visualizations ---
+--- A mishmash of random sports data analyses I had a blast with, turning numbers into fun and insightful visualizations ---
 
 :construction_worker: *work in progress* :construction_worker:
 

@@ -11,9 +11,9 @@ _Case Study_
 
 We dynamically evaluated the probability of the better team winning NBA and NHL finals from 1980 onwards by starting with a 10-year window, progressively adding one year at a time. We individuated major league decisions and events that may have impacted competitive balance over time.
 
-![](https://github.com/maddaleona/sport_projects/blob/main/Mosteller_review/NBA_finals_Mosteller.png)
+![](https://github.com/maddaleona/sport_projects/blob/main/Mosteller_Review/NBA_finals_Mosteller.png)
 
-![](https://github.com/maddaleona/sport_projects/blob/main/Mosteller_review/NHL_finals_Mosteller.png)
+![](https://github.com/maddaleona/sport_projects/blob/main/Mosteller_Review/NHL_finals_Mosteller.png)
 
 
 

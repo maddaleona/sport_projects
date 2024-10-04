@@ -8,10 +8,12 @@ The data is divided into a "pre-intervention" period (2009-2014 Cleveland Cavali
 
 _Key FIndings_
 
-![](https://github.com/maddaleona/sport_projects/blob/main/Causal_impact_and_NBA/James_effect_CI.png)
+![](https://github.com/maddaleona/sport_projects/blob/main/Causal_Impact_and_NBA/James_effect_CI.png)
 
-**Scoring Boost**: LeBron increased the Cavaliers' average monthly points by 9.7% (from 97.57 to 107.04 points).
-**Winning Performance**: The team's win rate surged by 71.68%.
+**Scoring Boost**: LeBron increased the Cavaliers' average monthly points by 9.7% (from 97.57 to 107.04 points)
+
+**Winning Performance**: The team's win rate surged by 71.68%
+
 **Plus-Minus Statistic**: A significant shift in the team's plus-minus from an expected -3.04 to +3.91, emphasizing LeBron's influence on the team’s success.
 
 ... and notably, the Cavaliers secured their only championship title in 2016!

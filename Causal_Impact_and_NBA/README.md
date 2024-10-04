@@ -8,7 +8,7 @@ The data is divided into a "pre-intervention" period (2009-2014 Cleveland Cavali
 
 _Key FIndings_
 
-![]()
+![](https://github.com/maddaleona/sport_projects/blob/main/Causal_impact_and_NBA/.png)
 
 **Scoring Boost**: LeBron increased the Cavaliers' average monthly points by 9.7% (from 97.57 to 107.04 points).
 **Winning Performance**: The team's win rate surged by 71.68%.
